@@ -7,3 +7,4 @@ A simple Snake Game built using Java Swing.
 - Food generation
 - Snake growth
 - Wall and body collision detection
+![Uploading image.png…]()
